@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: endmeplz
+    relative_path: urdf/endmeplz.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/endmeplz.srdf
+  CONFIG:
+    author_name: Daniel Bcip
+    author_email: Ingeniumdarkfalme@yandex.ru
+    generated_timestamp: 1687933570
